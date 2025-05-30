@@ -18,3 +18,4 @@ variable "hello" {}
 variable "hi" {}
 variable "h0w" {}
 variable "are" {}
+variable "feature" {}
