@@ -13,3 +13,8 @@ variable "vnetspre" {
 variable "subnetspre" {
   type = map(any)
 }
+
+variable "hello" {}
+variable "hi" {}
+variable "h0w" {}
+variable "are" {}
